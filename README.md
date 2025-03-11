@@ -8,7 +8,7 @@
 <body>
 
     <header>
-        <img src="[images/town_hall_logo.gif](https://webpages.charlotte.edu/kcardoso/Labs/Lab5/town_hall/images/town_hall_logo.gif)" alt="San Joaquin Valley Town Hall Logo" height="80">
+        <img src="images/town_hall_logo.gif" alt="San Joaquin Valley Town Hall Logo" height="80">
         <h2>San Joaquin Valley Town Hall</h2>
         <h3>Celebrating our 75<sup>th</sup> Year</h3>
     </header>
