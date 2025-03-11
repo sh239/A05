@@ -44,7 +44,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2022, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
+        <p>&copy; Copyright Saber Hossain, 2025, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
     </footer>
 
 </body>
