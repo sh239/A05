@@ -40,7 +40,7 @@
         <img src="images/sorkin75.jpg" alt="Andrew Ross Sorkin">
 
         <h3>January <br><a href="speakers/chua.html">Amy Chua</a></h3>
-        <img src="images/oliver75.jpg" alt="Amy Chua">
+        <img src="images/chua75.jpg" alt="Amy Chua">
     </main>
 
     <footer>
