@@ -36,11 +36,11 @@
         <h3>October <br><a href="speakers/brancaccio.html">David Brancaccio</a></h3>
         <img src="images/brancaccio75.jpg" alt="David Brancaccio">
 
-        <h3>November <br><a href="speakers/sorkin.html">Aaron Sorkin</a></h3>
-        <img src="images/sorkin75.jpg" alt="Aaron Sorkin">
+        <h3>November <br><a href="speakers/sorkin.html">Andrew Ross Sorkin</a></h3>
+        <img src="images/sorkin75.jpg" alt="Andrew Ross Sorkin">
 
-        <h3>December <br><a href="speakers/oliver.html">John Oliver</a></h3>
-        <img src="images/oliver75.jpg" alt="John Oliver">
+        <h3>January <br><a href="speakers/chua.html">Amy Chua</a></h3>
+        <img src="images/oliver75.jpg" alt="Amy Chua">
     </main>
 
     <footer>
